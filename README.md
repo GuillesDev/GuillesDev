@@ -4,7 +4,7 @@ Llevo más de 5 años haciendo grafismo y motion en directo para televisión: Cu
 
 **Mi portfolio y reel:** https://portfolio-guilles.vercel.app
 
-Lo que más me ha hecho crecer como dev es **Black Gum**: una web full-stack que monté de cero para una productora, con su panel de administración propio y subida de vídeos por trozos. De ahí saqué ese sistema de subida, lo dejé limpio y lo publiqué por si le sirve a alguien: [resumable-chunked-upload](https://github.com/GuillesDev/resumable-chunked-upload).
+Lo que más me ha hecho crecer como dev es **Black Gum**: una web full-stack que monté de cero para una productora, con un panel propio desde el que ellos mismos suben y gestionan sus vídeos, por pesados que sean. Una de las piezas que resolví ahí la dejé limpia y la publiqué por si le sirve a alguien: [resumable-chunked-upload](https://github.com/GuillesDev/resumable-chunked-upload).
 
 Estoy en Madrid o Sevilla, y también me manejo en remoto.
 
